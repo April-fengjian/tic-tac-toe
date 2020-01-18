@@ -1,6 +1,6 @@
 /**
  * Represents the situation in which the exception need to throw
- * @author Zhiqi Bei(Student#: 250916374)
+ * @author Zhiqi Bei
  *
  */
 public class DictionaryException extends RuntimeException{
