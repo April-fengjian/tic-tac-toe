@@ -1,6 +1,6 @@
 /**
  * This class stores the data that each entry of HashDictionary will contain
- * @author Zhiqi Bei (Student#: 250916374)
+ * @author Zhiqi Bei 
  */
 public class Configuration {
 	/*
