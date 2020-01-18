@@ -1,6 +1,6 @@
 /**
  * This class implement a node
- * @author Zhiqi Bei(Student# 250916374)
+ * @author Zhiqi Bei
  *
  */
 public class Node {
