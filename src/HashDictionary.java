@@ -1,6 +1,6 @@
 /**
  * This class implements a dictionary using a hash table with separate chaining
- * @author Zhiqi Bei(Student#: 250916374)
+ * @author Zhiqi Bei
  *
  */
 public class HashDictionary implements DictionaryADT{
